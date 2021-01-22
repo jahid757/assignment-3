@@ -1,11 +1,4 @@
-/* Function name 
-
-1. kilometerToMeter
-2. budgetCalculator
-3. hotelCost
-4. megaFriend
-
-*/
+// https://github.com/jahid757/assignment-3
 
 
 //-------------- Kilometer To Meter --------------
